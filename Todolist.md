@@ -5,4 +5,6 @@
 4. How to remote project
 5. How to push project on github
 6. How to add new branch
+7. How to use git fetch and git pull
+8. How to watch history on every change files.
 
