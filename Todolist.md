@@ -5,6 +5,3 @@
 4. How to remote project
 5. How to push project on github
 6. How to add new branch
-7. How to merge branch
-8. How to check history on github
-
